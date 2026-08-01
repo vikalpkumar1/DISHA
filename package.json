@@ -1,0 +1,26 @@
+{
+  "name": "disha-ai",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Disha AI (\u0926\u093f\u0936\u093e — \u2018direction\u2019) — India's student super app: verified government + private exams, scholarships, internships, jobs and competitions, an AI homework helper with camera support, a timetable with reminders, and an offline practice quiz. Every listing links straight to the real, official source.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.9",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.4",
+    "typescript": "5.5.3"
+  }
+}
